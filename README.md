@@ -2,7 +2,7 @@
 
 <h4 align="center"> 
 
-	🚧  Projeto X 🚀 Em construção...  🚧
+	🚧  Projeto Validador de CPF 🚀 Em construção...  🚧
   
 </h4> 
 
