@@ -6,5 +6,5 @@
   
 </h4> 
 
-# Validador_CPF_PyQt5
+# Validador_CPF
 Validador de cpf feito com interface gráfica do python durante curso
