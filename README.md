@@ -6,10 +6,9 @@
   
 </h4> 
 
-
-
 <div align="center" id="top">
- <img src="Validador-Cpf.gif" alt="Validador" /> 
+  <img alt="Validador_CPF_PyQt5" title="Validador_CPF_PyQt5" src="./Validador-Cpf.gif" height="230" />
+</h1>
 
  
   &#xa0;
