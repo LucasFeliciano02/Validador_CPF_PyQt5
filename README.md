@@ -9,7 +9,7 @@
 
 
 <div align="center" id="top">
- <img src="redimensionador.gif" alt="Redimensionador" /> 
+ <img src="Validador-Cpf.gif" alt="Validador" /> 
 
  
   &#xa0;
@@ -18,7 +18,7 @@
  </div>
  
  
- <h1 align="center">Redimensiona imagem</h1>
+ <h1 align="center">Validador de CPF</h1>
 
 
  
