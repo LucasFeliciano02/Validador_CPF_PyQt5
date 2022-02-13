@@ -7,7 +7,7 @@
 </h4> 
 
 <div align="center" id="top">
-  <img alt="Validador_CPF_PyQt5" title="Validador_CPF_PyQt5" src="./Validador-Cpf.gif" height="230" />
+  <img alt="Valida CPF" title="Valida CPF" src="./Validador-Cpf.gif" height="230" />
 </h1>
 
  
