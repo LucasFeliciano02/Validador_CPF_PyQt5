@@ -36,9 +36,31 @@
 	
 	
 ## :dart: Sobre ##
+</p>
+
+
+
+
+
+<br>
+
+			
+
+	
+
+	
+
+## :dart: Sobre ##
+
+
 
 ```sh
-• Redimensionador de imagem feito interface gráfica do python! Coloque a foto e adeque conforme o tamanho que queira!
+
+• Validador de cpf feito com interface gráfica do python! Coloque a foto e adeque conforme o tamanho que queira
+
+
+```sh
+• Validador de cpf feito com interface gráfica do python! Ele tem a capacidade de validar como false ou true e gerar cpfs válidos!
 ```
 
 ## :sparkles: Funcionalidades ##
