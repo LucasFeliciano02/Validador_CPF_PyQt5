@@ -54,7 +54,8 @@
 
 
 ```sh
-• Validador de cpf feito com interface gráfica do python! Ele tem a capacidade de validar como false ou true e gerar cpfs válidos!
+• Validador de cpf feito com interface gráfica do python! Feito durante curso, porem mudado algumas coisas,
+como as cores que que o designam como true ou false e o tamanho das labels feitas no qt designer
 ```
 
 
