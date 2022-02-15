@@ -7,7 +7,7 @@
 </h4> 
 
 <div align="center" id="top">
-  <img alt="Valida CPF" title="Valida CPF" src="./Validador-Cpf.gif" height="230" />
+  <img alt="Valida CPF" title="Validador" src="./Validador-Cpf.gif" height="230" />
 </h1>
 
  
