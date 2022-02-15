@@ -32,22 +32,9 @@
 
 
 <br>
-			
-	
-	
-## :dart: Sobre ##
-</p>
-
-
-
 
 
 <br>
-
-			
-
-	
-
 	
 
 ## :dart: Sobre ##
@@ -61,7 +48,9 @@ como as cores que o designam como true ou false e o tamanho das labels feitas no
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: 1º Calcular o que deseja;
+:heavy_check_mark: Validar qualquer cpf;\
+:heavy_check_mark: Gerar cpf válido;\
+:heavy_check_mark: Copiar o cpf na label;
 
 
 ## :rocket: Tecnologias ##
