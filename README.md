@@ -32,9 +32,6 @@
 
 
 <br>
-
-
-<br>
 	
 
 ## :dart: Sobre ##
