@@ -97,7 +97,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 ---
 
 
-### Autor
+<!---### Autor --->
 
 
 <img alt="Lucas Feliciano" title="Lucas Feliciano" src="https://avatars.githubusercontent.com/u/90653345?v=4" height="100" width="100" />
