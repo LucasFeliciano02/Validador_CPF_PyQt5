@@ -1,12 +1,12 @@
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-
+---
 	🚧  Projeto Validador de CPF 🚀 Em construção...  🚧
-  
 </h4> 
 
 <hr> -->
+
 
 <div align="center" id="top">
   <img alt="Valida CPF" title="Validador" src="./Validador-Cpf.gif" height="230" />
