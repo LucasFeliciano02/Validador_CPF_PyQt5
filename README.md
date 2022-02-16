@@ -96,7 +96,9 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 
 ---
 
+
 <br>
+
 
 <!---### Autor --->
 
@@ -114,4 +116,3 @@ Made with :heart: by [LucasFeliciano02](https://github.com/LucasFeliciano02) �
 
 
 <a href="#top">Voltar para o topo</a>
-
