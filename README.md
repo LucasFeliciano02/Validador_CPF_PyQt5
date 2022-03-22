@@ -87,12 +87,13 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 
 ```bash
 # Clone este repositorio
- $ git clone https://github.com/LucasFeliciano02/PyQt5_Redimensionador_Imagem.git
+ -> git bash here
+  $ git clone https://github.com/LucasFeliciano02/PyQt5_Redimensionador_Imagem.git
 
 # Acesse a pasta do projeto que aparecerá em sua area de trabalho
  -> mouse esquerdo -> Abrir com Code
 
-# Baixar Run Code em extensões, pyqt5 e DESFRUTAR DO CÓDIGO
+# Baixar Run Code em extensões, pyqt5 no terminal e DESFRUTAR DO CÓDIGO
  -> terminal -> pip install pyqt5
 
 ```
