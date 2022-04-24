@@ -102,7 +102,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
  2º  ->  venv\Scripts\activate.bat  
  3º  ->  .\venv\Scripts\activate.bat 
  
-# Utilizando o executavel:
+# Utilizando o executável:
  -> mouse esquerdo no arquivo.exe ->  Criar atalho  ->  Abrir o app na área de trabalho  &  Enjoy
 ```
 
