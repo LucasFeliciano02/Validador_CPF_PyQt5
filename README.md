@@ -104,6 +104,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
  
 # Utilizando o executavel:
  -> mouse esquerdo no arquivo.exe ->  Criar atalho  ->  Abrir o app na área de trabalho  &  Enjoy
+ 
 ```
 
 
