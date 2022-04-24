@@ -52,6 +52,7 @@ como as cores que o designam como true ou false e o tamanho das labels feitas no
 :heavy_check_mark: Copiar o cpf na label;\
 :heavy_check_mark: Utilizar como Executável em sua área de trabalho;
 
+
 ## :rocket: Tecnologias ##
  
 As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
